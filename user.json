@@ -1,0 +1,138 @@
+{
+  "id": 1,
+  "token": "abc123xyz",
+  "profile": {
+    "name": "John Doe",
+    "phoneNumber": "+1234567890",
+    "email": "john.doe@example.com",
+    "gender": "male"
+  },
+  "reservations": [
+    {
+      "id": 101,
+      "createdAt": "2024-10-15T10:00:00Z",
+      "status": "active",
+      "hotel": {
+        "id": 201,
+        "name": "Sunset Resort",
+        "location": "Maldives",
+        "phoneNumber": "+9876543210"
+      },
+      "details": {
+        "checkIn": "2024-12-01",
+        "checkOut": "2024-12-07",
+        "adults": 2,
+        "children": 0,
+        "nights": 6
+      },
+      "payment": {
+        "currency": "USD",
+        "totalPrice": 1200,
+        "isCancellable": true,
+        "paymentType": "credit_card"
+      }
+    },
+    {
+      "id": 102,
+      "createdAt": "2024-10-10T15:30:00Z",
+      "status": "completed",
+      "hotel": {
+        "id": 202,
+        "name": "Mountain Lodge",
+        "location": "Switzerland",
+        "phoneNumber": "+1122334455"
+      },
+      "details": {
+        "checkIn": "2024-09-01",
+        "checkOut": "2024-09-10",
+        "adults": 2,
+        "children": 1,
+        "nights": 9
+      },
+      "payment": {
+        "currency": "EUR",
+        "totalPrice": 1800,
+        "isCancellable": false,
+        "paymentType": "paypal"
+      }
+    }
+  ],
+  "favoritedHotels": [
+    {
+      "id": 301,
+      "image": "https://example.com/hotel1.jpg",
+      "name": "Beach Paradise",
+      "location": "Hawaii",
+      "rating": 4.8,
+      "totalReviews": 1200
+    },
+    {
+      "id": 302,
+      "image": "https://example.com/hotel2.jpg",
+      "name": "City Central Hotel",
+      "location": "New York",
+      "rating": 4.5,
+      "totalReviews": 900
+    }
+  ],
+  "moneyPoints": {
+    "totalMoneyPoints": 500,
+    "points": [
+      {
+        "id": 401,
+        "createdAt": "2024-01-01T09:00:00Z",
+        "status": "active",
+        "amount": 100,
+        "currency": "USD",
+        "expirationDate": "2025-01-01"
+      },
+      {
+        "id": 402,
+        "createdAt": "2024-06-15T12:30:00Z",
+        "status": "obsolete",
+        "amount": 200,
+        "currency": "EUR",
+        "expirationDate": "2024-07-15"
+      }
+    ]
+  },
+  "lastSeenHotels": [
+    {
+      "id": 501,
+      "image": "https://example.com/hotel3.jpg",
+      "name": "Lake View Inn",
+      "location": "Canada",
+      "rating": 4.7,
+      "totalReviews": 300
+    },
+    {
+      "id": 502,
+      "image": "https://example.com/hotel4.jpg",
+      "name": "Forest Retreat",
+      "location": "Sweden",
+      "rating": 4.6,
+      "totalReviews": 150
+    }
+  ],
+  "invoiceInfo": {
+    "type": "personal",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "citizenId": "123456789",
+    "address": "123 Maple Street, Cityville"
+  },
+  "preferences": [
+    {
+      "id": 601,
+      "accepted": true,
+      "title": "Receive promotional emails",
+      "description": "Stay updated with our latest offers and promotions."
+    },
+    {
+      "id": 602,
+      "accepted": false,
+      "title": "Share data with partners",
+      "description": "Allow sharing of booking data with selected partners."
+    }
+  ]
+}

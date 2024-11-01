@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Hafta Sonuna Özel İndirimler",
+    "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "link": "/indirimli-oteller"
+  },
+  {
+    "title": "Termal Otellerde ek %5 indirim fırsatı",
+    "image": "https://images.unsplash.com/photo-1679637175058-cada15d04aa2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "link": "/termal-oteller"
+  },
+  {
+    "title": "Yurtiçi Otellerde 500 ₺ İndirim Fırsatı",
+    "image": "https://images.unsplash.com/photo-1618245318763-a15156d6b23c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "link": "/izmir-otelleri"
+  },
+  {
+    "title": "%50 İndirimli Oteller",
+    "image": "https://images.unsplash.com/photo-1518558177271-f75b99ebe8fc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "link": "/indirimli-oteller"
+  },
+  {
+    "title": "Şehir Otellerinde 3 Gece 4 Öde Fırsatı",
+    "image": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "link": "/sehir-otelleri"
+  },
+  {
+    "title": "Balayı Otellerinde %20 İndirim",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "link": "/balayi-otelleri"
+  }
+]

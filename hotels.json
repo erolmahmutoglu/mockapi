@@ -1,0 +1,294 @@
+[
+  {
+    "id": 1,
+    "seflink": "sentinus-beach-hotel",
+    "name": "Sentinus Beach Hotel",
+    "like": true,
+    "location": "Antalya, Türkiye",
+    "phoneNumber": "+90 555 123 45 67",
+    "rating": 4.5,
+    "numberOfComments": 256,
+    "coordinates": {
+      "lat": 36.8969,
+      "lng": 30.7133
+    },
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "detail": {
+      "overview": "Sentinus Beach Hotel Akdeniz’in büyüleyici manzaralarını misafirlerine sunan lüks bir tatil destinasyonudur. Konuklar, modern olanaklarla donatılmış odalarında konforlu bir konaklama deneyimi yaşarken otel genelinde sunulan geniş yelpazedeki hizmetlerden yararlanabilirler. Deniz kenarında huzur bulmak isteyenler için ideal olan tatil köyü, sunduğu olanaklarla tüm yaş gruplarına hitap etmektedir.",
+      "featuredFeatures": [
+        "Ücretsiz Wi-Fi",
+        "Deniz Manzaralı Odalar",
+        "Ücretsiz Kahvaltı",
+        "24 Saat Resepsiyon"
+      ],
+      "features": [
+        {
+          "showFeature": true,
+          "icon": "accomodation",
+          "title": "Konaklama",
+          "description": "Sentinus Beach Hotel'de, her biri Akdeniz’in berrak mavi sularına bakan ve modern dekorasyonla döşenmiş, ferah ve konforlu odalar misafirlerin hizmetindedir. Odalarda yüksek kaliteli yataklar, kişisel iklim kontrol sistemi, ücretsiz Wi-Fi, LED TV ve minibar bulunmaktadır. Aileler ve çiftler için ideal olan konaklama birimleri, unutulmaz bir tatil deneyimi sunmak için tüm detaylar düşünülerek hazırlanmıştır.",
+          "facilities": ["Klima", "Mini Bar", "Oda Servisi", "LED TV"]
+        },
+        {
+          "showFeature": true,
+          "icon": "food-and-drink",
+          "title": "Yeme & İçme",
+          "description": "Otelde, yerel Türk mutfağından ve dünya mutfaklarından seçme lezzetler sunan restoranlar bulunmaktadır. Sabahları geniş bir açık büfe kahvaltıyla güne başlayabilir, öğle ve akşam yemeklerinde ise özenle hazırlanmış menülerden seçim yapabilirsiniz. Ayrıca otelin havuz barı ve lounge alanında gün boyu içecek ve atıştırmalık servisinden yararlanabilirsiniz.",
+          "facilities": [
+            "Açık Büfe Kahvaltı",
+            "Akşam Yemeği",
+            "Kahve ve Atıştırmalıklar",
+            "Havuz Barı"
+          ]
+        },
+        {
+          "icon": "spa-and-sauna",
+          "showFeature": true,
+          "title": "Spa & Sauna",
+          "description": "Sentinus Beach Hotel'in spa merkezi, tüm yılın yorgunluğunu atmak isteyen misafirler için ideal bir kaçış noktasıdır. Bu bölümde çeşitli masaj terapileri, buhar odaları ve saunalar sunulmaktadır. Ayrıca spa alanındaki jakuzi ve dinlenme alanlarıyla misafirler, kendilerini yenilenmiş ve rahatlamış hissedecekleri eşsiz bir deneyim yaşayabilirler.",
+          "facilities": [
+            "Masaj Hizmetleri",
+            "Buhar Odası",
+            "Jakuzili Odalar",
+            "Dinlenme Alanları"
+          ]
+        },
+        {
+          "icon": "activities",
+          "showFeature": true,
+          "title": "Aktiviteler",
+          "description": "Tatil köyü, doğayla iç içe vakit geçirmek isteyen misafirlerine çeşitli su sporları ve açık hava etkinlikleri sunmaktadır. Otelde dalış, sörf, tekne turları gibi aktiviteler düzenlenmektedir. Ayrıca doğa yürüyüşleri ve bisiklet kiralama gibi seçeneklerle misafirler çevredeki doğal güzellikleri keşfetme fırsatı bulabilirler.",
+          "facilities": ["Dalış", "Sörf", "Tekne Turu", "Doğa Yürüyüşü"]
+        },
+        {
+          "icon": "pool",
+          "showFeature": true,
+          "title": "Havuz",
+          "description": "Otelin geniş havuz alanı, Akdeniz’in sıcak güneşinin tadını çıkarabileceğiniz mükemmel bir mekandır. Havuz çevresinde yer alan şezlonglar ve güneşlenme alanları sayesinde gün boyu rahatça vakit geçirebilir, havuz barından soğuk içeceklerinizi alarak serinleyebilirsiniz. Çocuklar için özel yüzme alanları da bulunan havuz bölümü, ailelerin konforu düşünülerek tasarlanmıştır.",
+          "facilities": ["Açık Havuz", "Çocuk Havuzu", "Havuz Barı", "Şezlong"]
+        },
+        {
+          "icon": "meeting-hall",
+          "showFeature": true,
+          "title": "Toplantı Salonu",
+          "description": "İş toplantıları ve özel etkinlikler için tasarlanmış olan toplantı salonu, modern ekipmanlarla donatılmıştır. Konferanslar, seminerler ve özel etkinliklerde konuklara yüksek kaliteli ses ve görüntü hizmetleri sunulmaktadır. Profesyonel organizasyon ekibi, tüm etkinliklerin sorunsuz bir şekilde ilerlemesini sağlamak için her ayrıntıyı özenle planlamaktadır.",
+          "facilities": [
+            "Projeksiyon",
+            "Konferans Salonu",
+            "Yüksek Hızlı İnternet",
+            "Ses Sistemi"
+          ]
+        },
+        {
+          "icon": "extra-services",
+          "showFeature": true,
+          "title": "Ek Hizmetler",
+          "description": "Tatil köyü, misafirlerin tatil süresince ihtiyaç duyabilecekleri ekstra hizmetleri de sunmaktadır. Vale park hizmeti, çamaşırhane, kuru temizleme ve havaalanı transfer hizmetleri sayesinde tatiliniz boyunca her şey en ince ayrıntısına kadar düşünülmüştür. Misafir ilişkileri ekibi, tüm isteklerinizi karşılamak için her zaman yanınızdadır.",
+          "facilities": [
+            "Vale Park Hizmeti",
+            "Çamaşırhane",
+            "Kuru Temizleme",
+            "Havaalanı Transferi"
+          ]
+        }
+      ]
+    },
+    "comments": {
+      "totalNumberOfComments": 256,
+      "commentTypes": [
+        {
+          "type": "Restoran/Yemekler",
+          "rating": 4.7
+        },
+        {
+          "type": "Konum/Çevre",
+          "rating": 4.5
+        },
+        {
+          "type": "Temizlik",
+          "rating": 4.8
+        },
+        {
+          "type": "Personal Hizmeti",
+          "rating": 4.6
+        },
+        {
+          "type": "Fiyat/Kalite",
+          "rating": 4.9
+        },
+        {
+          "type": "Odalar",
+          "rating": 4.7
+        }
+      ],
+      "comments": [
+        {
+          "name": "Ayşe Yılmaz",
+          "date": "2024-07-15",
+          "comment": "Manzara harikaydı, odalar çok temizdi. Tüm çalışanlar güleryüzlü ve yardımseverdi. Havuz alanında vakit geçirmek çok keyifliydi. Kesinlikle tekrar geleceğim!",
+          "rating": 5
+        },
+        {
+          "name": "Mehmet Kaya",
+          "date": "2024-06-20",
+          "comment": "Otelin genel havasını beğendim fakat yemekler biraz daha lezzetli olabilirdi. Özellikle kahvaltı seçenekleri daha zengin olmalı.",
+          "rating": 3
+        },
+        {
+          "name": "Zeynep Demir",
+          "date": "2024-05-10",
+          "comment": "Çocuklarımızla birlikte konakladık ve herkes çok mutlu ayrıldık. Otelin çocuk dostu olması bizim için çok önemliydi. Personel ilgili ve güler yüzlüydü. Kesinlikle tavsiye ederim.",
+          "rating": 5
+        },
+        {
+          "name": "Ahmet Yıldız",
+          "date": "2024-04-05",
+          "comment": "Otelin konumu çok güzel, denize sıfır olması büyük avantaj. Odalar temiz ve konforluydu. Ancak fiyatlar biraz yüksek.",
+          "rating": 4
+        },
+        {
+          "name": "Fatma Korkmaz",
+          "date": "2024-03-15",
+          "comment": "Otelin genel hizmetinden memnun kaldık. Özellikle spa merkezi çok iyiydi. Masaj hizmeti almak isteyenler için kesinlikle tavsiye ederim.",
+          "rating": 5
+        }
+      ]
+    },
+    "prices": [
+      {
+        "order": 1,
+        "tag": "Popüler",
+        "like": true,
+        "images": [
+          "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "title": "Standart Deniz Manzaralı Oda",
+        "description": "Standart deniz manzaralı odalar, modern dekorasyonu ve konforlu yataklarıyla misafirlerin beğenisini kazanmaktadır. Odalarda klima, mini bar, LED TV ve ücretsiz Wi-Fi bulunmaktadır.",
+        "features": [
+          "Klima",
+          "Mini Bar",
+          "Oda Servisi",
+          "LED TV",
+          "Ücretsiz Wi-Fi",
+          "Deniz Manzarası",
+          "Duş",
+          "Bornoz",
+          "Saç Kurutma Makinesi",
+          "Çalışma Masası"
+        ],
+        "badges": [
+          { "variant": "green", "text": "Ücretsiz İptal" },
+          { "variant": "blue", "text": "Peşin Fiyatına 6 Taksit" }
+        ],
+        "calculated": {
+          "isAvailable": true,
+          "nonAvailabilityStatus": {
+            "type": null,
+            "message": ""
+          },
+          "concept": "Yarım Pansiyon",
+          "nights": 7,
+          "adults": 2,
+          "children": 1,
+          "discount": 15,
+          "overlinedPrice": 3500,
+          "price": 2975
+        }
+      },
+      {
+        "order": 2,
+        "tag": "Popüler",
+        "like": false,
+        "images": [
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "title": "Deluxe Deniz Manzaralı Oda",
+        "description": " Deluxe deniz manzaralı odalar, geniş ve ferah bir yaşam alanı sunmaktadır. Odalarda yüksek kaliteli yataklar, kişisel iklim kontrol sistemi, ücretsiz Wi-Fi, LED TV ve minibar bulunmaktadır.",
+
+        "features": [
+          "Deniz Manzarası",
+          "Duş",
+          "Bornoz",
+          "Saç Kurutma Makinesi",
+          "Çalışma Masası",
+          "Klima",
+          "Mini Bar",
+          "Oda Servisi",
+          "LED TV",
+          "Ücretsiz Wi-Fi"
+        ],
+        "badges": [
+          { "variant": "green", "text": "Ücretsiz İptal" },
+          { "variant": "blue", "text": "Peşin Fiyatına 6 Taksit" }
+        ],
+        "calculated": {
+          "isAvailable": true,
+          "nonAvailabilityStatus": {
+            "type": null,
+            "message": ""
+          },
+          "concept": "Sadece Oda",
+          "nights": 7,
+          "adults": 2,
+          "children": 1,
+          "discount": 15,
+          "overlinedPrice": 5400,
+          "price": 4590
+        }
+      },
+      {
+        "order": 3,
+        "tag": "Popüler",
+        "like": false,
+        "images": [
+          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "title": "Suite Oda",
+        "description": "Suit odalar, geniş ve ferah bir yaşam alanı sunmaktadır. Odalarda yüksek kaliteli yataklar, kişisel iklim kontrol sistemi, ücretsiz Wi-Fi, LED TV ve minibar bulunmaktadır.",
+
+        "features": [
+          "Çalışma Masası",
+          "Klima",
+          "Mini Bar",
+          "Oda Servisi",
+          "Deniz Manzarası",
+          "Duş",
+          "Bornoz",
+          "Saç Kurutma Makinesi",
+          "LED TV",
+          "Ücretsiz Wi-Fi"
+        ],
+        "badges": [
+          { "variant": "green", "text": "Ücretsiz İptal" },
+          { "variant": "blue", "text": "Peşin Fiyatına 6 Taksit" }
+        ],
+        "calculated": {
+          "isAvailable": false,
+          "nonAvailabilityStatus": {
+            "type": "availability",
+            "message": "Bu tarihlerde müsaitlik bulunmamaktadır."
+          },
+          "concept": "Sadece Oda",
+          "nights": 7,
+          "adults": 2,
+          "children": 1,
+          "discount": 15,
+          "overlinedPrice": 5400,
+          "price": 4590
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "order": 1,
+    "seflink": "marmaris-otelleri",
+    "tag": "Popüler",
+    "like": true,
+    "star": 4,
+    "comments": 32,
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "location": "Marmaris, Muğla",
+    "title": "Sentinus Beach Hotel",
+    "features": ["Havuz", "Spa", "Deniz Kıyısında"],
+    "badges": [
+      {
+        "variant": "green",
+        "text": "Ücretsiz İptal"
+      },
+      {
+        "variant": "blue",
+        "text": "Peşin Fiyatına 6 Taksit"
+      }
+    ],
+    "calculated": {
+      "concept": "Her Şey Dahil",
+      "nights": 7,
+      "adults": 2,
+      "children": 1,
+      "discount": 20,
+      "overlinedPrice": 4590,
+      "price": 3672
+    }
+  },
+  {
+    "order": 2,
+    "seflink": "marmaris-otelleri",
+    "tag": "Yeni",
+    "like": false,
+    "star": 5,
+    "comments": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "location": "Marmaris, Muğla",
+    "title": "Rixos Premium Belek",
+    "features": ["Havuz", "Spa", "Deniz Kıyısında"],
+    "badges": [
+      {
+        "variant": "green",
+        "text": "Ücretsiz İptal"
+      },
+      {
+        "variant": "blue",
+        "text": "Peşin Fiyatına 6 Taksit"
+      }
+    ],
+    "calculated": {
+      "concept": "Her Şey Dahil",
+      "nights": 7,
+      "adults": 2,
+      "children": 1,
+      "discount": 20,
+      "overlinedPrice": 2300,
+      "price": 1840
+    }
+  }
+]
