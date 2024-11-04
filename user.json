@@ -6,6 +6,7 @@
     "phoneNumber": "+1234567890",
     "email": "john.doe@example.com",
     "gender": "male"
+    "citizenId":"14364567789"
   },
   "reservations": [
     {
@@ -15,8 +16,9 @@
       "hotel": {
         "id": 201,
         "name": "Sunset Resort",
-        "location": "Maldives",
-        "phoneNumber": "+9876543210"
+        "location": "Torba Mh. Kaynar Cd. No:81 Bodrum/Muğla",
+        "phoneNumber": "5556667788",
+         "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       "details": {
         "checkIn": "2024-12-01",
@@ -29,7 +31,7 @@
         "currency": "USD",
         "totalPrice": 1200,
         "isCancellable": true,
-        "paymentType": "credit_card"
+        "paymentType": "online"
       }
     },
     {
@@ -39,8 +41,9 @@
       "hotel": {
         "id": 202,
         "name": "Mountain Lodge",
-        "location": "Switzerland",
-        "phoneNumber": "+1122334455"
+        "location": "Torba Mh. Kaynar Cd. No:81 Bodrum/Muğla",
+        "phoneNumber": "5456557889",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       },
       "details": {
         "checkIn": "2024-09-01",
@@ -50,27 +53,27 @@
         "nights": 9
       },
       "payment": {
-        "currency": "EUR",
+        "currency": "TRY",
         "totalPrice": 1800,
         "isCancellable": false,
-        "paymentType": "paypal"
+        "paymentType": "kapida"
       }
     }
   ],
   "favoritedHotels": [
     {
       "id": 301,
-      "image": "https://example.com/hotel1.jpg",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Beach Paradise",
-      "location": "Hawaii",
+      "location": "Marmaris, Antalya",
       "rating": 4.8,
       "totalReviews": 1200
     },
     {
       "id": 302,
-      "image": "https://example.com/hotel2.jpg",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "City Central Hotel",
-      "location": "New York",
+      "location": "Marmaris, Antalya",
       "rating": 4.5,
       "totalReviews": 900
     }
@@ -99,17 +102,17 @@
   "lastSeenHotels": [
     {
       "id": 501,
-      "image": "https://example.com/hotel3.jpg",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Lake View Inn",
-      "location": "Canada",
+      "location": "Bodrum, Muğla",
       "rating": 4.7,
       "totalReviews": 300
     },
     {
       "id": 502,
-      "image": "https://example.com/hotel4.jpg",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Forest Retreat",
-      "location": "Sweden",
+      "location": "Bodrum, Muğla",
       "rating": 4.6,
       "totalReviews": 150
     }
