@@ -5,8 +5,8 @@
     "name": "John Doe",
     "phoneNumber": "+1234567890",
     "email": "john.doe@example.com",
-    "gender": "male"
-    "citizenId":"14364567789"
+    "gender": "male",
+    "citizenId": "14364567789"
   },
   "reservations": [
     {
@@ -18,7 +18,7 @@
         "name": "Sunset Resort",
         "location": "Torba Mh. Kaynar Cd. No:81 Bodrum/Muğla",
         "phoneNumber": "5556667788",
-         "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       "details": {
         "checkIn": "2024-12-01",
@@ -43,7 +43,147 @@
         "name": "Mountain Lodge",
         "location": "Torba Mh. Kaynar Cd. No:81 Bodrum/Muğla",
         "phoneNumber": "5456557889",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "details": {
+        "checkIn": "2024-09-01",
+        "checkOut": "2024-09-10",
+        "adults": 2,
+        "children": 1,
+        "nights": 9
+      },
+      "payment": {
+        "currency": "TRY",
+        "totalPrice": 1800,
+        "isCancellable": false,
+        "paymentType": "kapida"
+      }
+    }
+  ],
+  "favoritedHotels": [
+    {
+      "id": 301,
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Beach Paradise",
+      "location": "Marmaris, Antalya",
+      "rating": 4.8,
+      "totalReviews": 1200
+    },
+    {
+      "id": 302,
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "City Central Hotel",
+      "location": "Marmaris, Antalya",
+      "rating": 4.5,
+      "totalReviews": 900
+    }
+  ],
+  "moneyPoints": {
+    "totalMoneyPoints": 500,
+    "points": [
+      {
+        "id": 401,
+        "createdAt": "2024-01-01T09:00:00Z",
+        "status": "active",
+        "amount": 100,
+        "currency": "USD",
+        "expirationDate": "2025-01-01"
+      },
+      {
+        "id": 402,
+        "createdAt": "2024-06-15T12:30:00Z",
+        "status": "obsolete",
+        "amount": 200,
+        "currency": "EUR",
+        "expirationDate": "2024-07-15"
+      }
+    ]
+  },
+  "lastSeenHotels": [
+    {
+      "id": 501,
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Lake View Inn",
+      "location": "Bodrum, Muğla",
+      "rating": 4.7,
+      "totalReviews": 300
+    },
+    {
+      "id": 502,
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Forest Retreat",
+      "location": "Bodrum, Muğla",
+      "rating": 4.6,
+      "totalReviews": 150
+    }
+  ],
+  "invoiceInfo": {
+    "type": "personal",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "citizenId": "123456789",
+    "address": "123 Maple Street, Cityville"
+  },
+  "preferences": [
+    {
+      "id": 601,
+      "accepted": true,
+      "title": "Receive promotional emails",
+      "description": "Stay updated with our latest offers and promotions."
+    },
+    {
+      "id": 602,
+      "accepted": false,
+      "title": "Share data with partners",
+      "description": "Allow sharing of booking data with selected partners."
+    }
+  ]
+}{
+  "id": 1,
+  "token": "abc123xyz",
+  "profile": {
+    "name": "John Doe",
+    "phoneNumber": "+1234567890",
+    "email": "john.doe@example.com",
+    "gender": "male",
+    "citizenId": "14364567789"
+  },
+  "reservations": [
+    {
+      "id": 101,
+      "createdAt": "2024-10-15T10:00:00Z",
+      "status": "active",
+      "hotel": {
+        "id": 201,
+        "name": "Sunset Resort",
+        "location": "Torba Mh. Kaynar Cd. No:81 Bodrum/Muğla",
+        "phoneNumber": "5556667788",
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "details": {
+        "checkIn": "2024-12-01",
+        "checkOut": "2024-12-07",
+        "adults": 2,
+        "children": 0,
+        "nights": 6
+      },
+      "payment": {
+        "currency": "USD",
+        "totalPrice": 1200,
+        "isCancellable": true,
+        "paymentType": "online"
+      }
+    },
+    {
+      "id": 102,
+      "createdAt": "2024-10-10T15:30:00Z",
+      "status": "completed",
+      "hotel": {
+        "id": 202,
+        "name": "Mountain Lodge",
+        "location": "Torba Mh. Kaynar Cd. No:81 Bodrum/Muğla",
+        "phoneNumber": "5456557889",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       "details": {
         "checkIn": "2024-09-01",
