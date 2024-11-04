@@ -67,6 +67,7 @@
       "name": "Beach Paradise",
       "location": "Marmaris, Antalya",
       "rating": 4.8,
+      "features": ["Havuz", "Spa", "Deniz Kıyısında"],
       "totalReviews": 1200
     },
     {
@@ -75,6 +76,7 @@
       "name": "City Central Hotel",
       "location": "Marmaris, Antalya",
       "rating": 4.5,
+      "features": ["Havuz", "Spa", "Deniz Kıyısında"],
       "totalReviews": 900
     }
   ],
@@ -106,6 +108,7 @@
       "name": "Lake View Inn",
       "location": "Bodrum, Muğla",
       "rating": 4.7,
+      "features": ["Havuz", "Spa", "Deniz Kıyısında"],
       "totalReviews": 300
     },
     {
@@ -114,6 +117,7 @@
       "name": "Forest Retreat",
       "location": "Bodrum, Muğla",
       "rating": 4.6,
+      "features": ["Havuz", "Spa", "Deniz Kıyısında"],
       "totalReviews": 150
     }
   ],
