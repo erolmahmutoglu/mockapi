@@ -63,6 +63,7 @@
   "favoritedHotels": [
     {
       "id": 301,
+      "seflink": "sentinus-beach-hotel",
       "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Beach Paradise",
       "location": "Marmaris, Antalya",
@@ -72,6 +73,7 @@
     },
     {
       "id": 302,
+      "seflink": "sentinus-beach-hotel",
       "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "City Central Hotel",
       "location": "Marmaris, Antalya",
@@ -104,6 +106,7 @@
   "lastSeenHotels": [
     {
       "id": 501,
+      "seflink": "sentinus-beach-hotel",
       "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Lake View Inn",
       "location": "Bodrum, Muğla",
@@ -113,6 +116,7 @@
     },
     {
       "id": 502,
+      "seflink": "sentinus-beach-hotel",
       "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "name": "Forest Retreat",
       "location": "Bodrum, Muğla",
