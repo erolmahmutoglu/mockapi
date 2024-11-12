@@ -268,6 +268,9 @@
               "icon": "concept"
             },
             "roomReservationInfo": {
+              "nights": 7,
+              "checkIn": "2024-07-15",
+              "checkOut": "2024-07-22",
               "adults": 2,
               "children": 1
             },
@@ -396,6 +399,9 @@
               "icon": "concept"
             },
             "roomReservationInfo": {
+              "nights": 7,
+              "checkIn": "2024-07-15",
+              "checkOut": "2024-07-22",
               "adults": 2,
               "children": 1
             },
@@ -440,6 +446,9 @@
               "icon": "concept"
             },
             "roomReservationInfo": {
+              "nights": 7,
+              "checkIn": "2024-07-15",
+              "checkOut": "2024-07-22",
               "adults": 2,
               "children": 1
             },
