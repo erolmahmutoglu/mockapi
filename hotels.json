@@ -160,135 +160,306 @@
         }
       ]
     },
-    "prices": [
-      {
-        "order": 1,
-        "tag": "Popüler",
-        "like": true,
-        "images": [
-          "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-          "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        ],
-        "title": "Standart Deniz Manzaralı Oda",
-        "description": "Standart deniz manzaralı odalar, modern dekorasyonu ve konforlu yataklarıyla misafirlerin beğenisini kazanmaktadır. Odalarda klima, mini bar, LED TV ve ücretsiz Wi-Fi bulunmaktadır.",
-        "features": [
-          "Klima",
-          "Mini Bar",
-          "Oda Servisi",
-          "LED TV",
-          "Ücretsiz Wi-Fi",
-          "Deniz Manzarası",
-          "Duş",
-          "Bornoz",
-          "Saç Kurutma Makinesi",
-          "Çalışma Masası"
-        ],
-        "badges": [
-          { "variant": "green", "text": "Ücretsiz İptal" },
-          { "variant": "blue", "text": "Peşin Fiyatına 6 Taksit" }
-        ],
-        "calculated": {
-          "isAvailable": true,
-          "nonAvailabilityStatus": {
-            "type": null,
-            "message": ""
-          },
-          "concept": "Yarım Pansiyon",
-          "nights": 7,
-          "adults": 2,
-          "children": 1,
-          "discount": 15,
-          "overlinedPrice": 3500,
-          "price": 2975
+     "rooms": [
+    {
+      "id": 10,
+      "like": true,
+      "tag": "Popüler",
+      "title": "Standart Oda",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Standart Oda 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Standart Oda 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Standart Oda 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Standart Oda 4"
         }
+      ],
+      "featuredFeatures": [
+        {
+          "icon": "metrekare",
+          "title": "25 m²"
+        },
+        {
+          "icon": "deniz-manzarasi",
+          "title": "Deniz Manzaralı"
+        },
+        {
+          "icon": "wifi",
+          "title": "Ücretsiz Wi-Fi"
+        },
+        {
+          "icon": "mini-bar",
+          "title": "Mini Bar"
+        }
+      ],
+      "detailedInfo": {
+        "title": "Standart Oda",
+        "description": "Standart odalar, modern dekorasyonu ve konforlu yataklarıyla misafirlerin ihtiyaçlarına cevap vermek üzere tasarlanmıştır. Odalarda geniş bir çalışma masası, kişisel iklim kontrol sistemi, ücretsiz Wi-Fi, LED TV ve minibar bulunmaktadır. Ayrıca odalarda özel banyo ve tuvalet alanı, saç kurutma makinesi ve kişisel bakım ürünleri mevcuttur.",
+        "features": [
+          {
+            "icon": "metrekare",
+            "title": "25 m²"
+          },
+          {
+            "icon": "deniz-manzarasi",
+            "title": "Deniz Manzaralı"
+          },
+          {
+            "icon": "wifi",
+            "title": "Ücretsiz Wi-Fi"
+          },
+          {
+            "icon": "mini-bar",
+            "title": "Mini Bar"
+          },
+          {
+            "icon": "klima",
+            "title": "Klima"
+          },
+          {
+            "icon": "tv",
+            "title": "LED TV"
+          },
+          {
+            "icon": "oda-servisi",
+            "title": "Oda Servisi"
+          }
+        ]
       },
-      {
-        "order": 2,
-        "tag": "Popüler",
-        "like": false,
-        "images": [
-          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-          "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-          "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        ],
-        "title": "Deluxe Deniz Manzaralı Oda",
-        "description": " Deluxe deniz manzaralı odalar, geniş ve ferah bir yaşam alanı sunmaktadır. Odalarda yüksek kaliteli yataklar, kişisel iklim kontrol sistemi, ücretsiz Wi-Fi, LED TV ve minibar bulunmaktadır.",
-
-        "features": [
-          "Deniz Manzarası",
-          "Duş",
-          "Bornoz",
-          "Saç Kurutma Makinesi",
-          "Çalışma Masası",
-          "Klima",
-          "Mini Bar",
-          "Oda Servisi",
-          "LED TV",
-          "Ücretsiz Wi-Fi"
-        ],
-        "badges": [
-          { "variant": "green", "text": "Ücretsiz İptal" },
-          { "variant": "blue", "text": "Peşin Fiyatına 6 Taksit" }
-        ],
-        "calculated": {
-          "isAvailable": true,
-          "nonAvailabilityStatus": {
-            "type": null,
-            "message": ""
+      "defaultFeatures": [
+        "En Uygun Fiyat Garantisi",
+        "0-6 Yaş Ücretsiz",
+        "Otelde Ödeme İmkanı",
+        "Peşin Fiyatına 6 Taksit"
+      ],
+      "concepts": [
+        {
+          "id": 2001,
+          "hasPrice": true,
+          "availableForReservation": true,
+          "unavailableRoomMessage": "",
+          "concept": {
+            "title": "Yarım Pansiyon",
+            "icon": "concept"
           },
-          "concept": "Sadece Oda",
-          "nights": 7,
-          "adults": 2,
-          "children": 1,
-          "discount": 15,
-          "overlinedPrice": 5400,
-          "price": 4590
+          "roomReservationInfo": {
+            "adults": 2,
+            "children": 1
+          },
+          " paymentFeatures": [
+            {
+              "icon": "İptal Edilebilir",
+              "title": "İptal Edilebilir"
+            },
+            {
+              "icon": "Şimdi Al Otelde Öde",
+              "title": "Şimdi Al Otelde Öde"
+            },
+            {
+              "icon": "İptal Edilemez",
+              "title": "İptal Edilemez"
+            },
+            {
+              "icon": "Bugüne Özel İndirimlerle",
+              "title": "Bugüne Özel %20 İndirim"
+            }
+          ],
+          "payment": {
+            "nigths": 7,
+            "discountRate": 20,
+            "price": 3500,
+            "discountedPrice": 2800
+          },
+          "reservationButtonParams": {
+            "otel_id": 1,
+            "oda_id": 10,
+            "pansiyon_id": 2001,
+            "odeme_tipi": "normal"
+          }
         }
+      ]
+    },
+    {
+      "id": 11,
+      "like": true,
+      "tag": "Popüler",
+      "title": "Deluxe Oda",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Standart Oda 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Standart Oda 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Standart Oda 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Standart Oda 4"
+        }
+      ],
+      "featuredFeatures": [
+        {
+          "icon": "metrekare",
+          "title": "48 m²"
+        },
+        {
+          "icon": "deniz-manzarasi",
+          "title": "Deniz Manzaralı"
+        },
+        {
+          "icon": "wifi",
+          "title": "Ücretsiz Wi-Fi"
+        },
+        {
+          "icon": "mini-bar",
+          "title": "Mini Bar"
+        }
+      ],
+      "detailedInfo": {
+        "title": "Deluxe Oda",
+        "description": "Deluxe odalar, modern dekorasyonu ve konforlu yataklarıyla misafirlerin ihtiyaçlarına cevap vermek üzere tasarlanmıştır. Odalarda geniş bir çalışma masası, kişisel iklim kontrol sistemi, ücretsiz Wi-Fi, LED TV ve minibar bulunmaktadır. Ayrıca odalarda özel banyo ve tuvalet alanı, saç kurutma makinesi ve kişisel bakım ürünleri mevcuttur.",
+        "features": [
+          {
+            "icon": "metrekare",
+            "title": "25 m²"
+          },
+          {
+            "icon": "deniz-manzarasi",
+            "title": "Deniz Manzaralı"
+          },
+          {
+            "icon": "wifi",
+            "title": "Ücretsiz Wi-Fi"
+          },
+          {
+            "icon": "mini-bar",
+            "title": "Mini Bar"
+          },
+          {
+            "icon": "klima",
+            "title": "Klima"
+          },
+          {
+            "icon": "tv",
+            "title": "LED TV"
+          },
+          {
+            "icon": "oda-servisi",
+            "title": "Oda Servisi"
+          }
+        ]
       },
-      {
-        "order": 3,
-        "tag": "Popüler",
-        "like": false,
-        "images": [
-          "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-          "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-          "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        ],
-        "title": "Suite Oda",
-        "description": "Suit odalar, geniş ve ferah bir yaşam alanı sunmaktadır. Odalarda yüksek kaliteli yataklar, kişisel iklim kontrol sistemi, ücretsiz Wi-Fi, LED TV ve minibar bulunmaktadır.",
-
-        "features": [
-          "Çalışma Masası",
-          "Klima",
-          "Mini Bar",
-          "Oda Servisi",
-          "Deniz Manzarası",
-          "Duş",
-          "Bornoz",
-          "Saç Kurutma Makinesi",
-          "LED TV",
-          "Ücretsiz Wi-Fi"
-        ],
-        "badges": [
-          { "variant": "green", "text": "Ücretsiz İptal" },
-          { "variant": "blue", "text": "Peşin Fiyatına 6 Taksit" }
-        ],
-        "calculated": {
-          "isAvailable": false,
-          "nonAvailabilityStatus": {
-            "type": "availability",
-            "message": "Bu tarihlerde müsaitlik bulunmamaktadır."
+      "defaultFeatures": [
+        "En Uygun Fiyat Garantisi",
+        "0-6 Yaş Ücretsiz",
+        "Otelde Ödeme İmkanı",
+        "Peşin Fiyatına 6 Taksit"
+      ],
+      "concepts": [
+        {
+          "id": 2001,
+          "hasPrice": true,
+          "availableForReservation": true,
+          "unavailableRoomMessage": "",
+          "concept": {
+            "title": "Yarım Pansiyon",
+            "icon": "concept"
           },
-          "concept": "Sadece Oda",
-          "nights": 7,
-          "adults": 2,
-          "children": 1,
-          "discount": 15,
-          "overlinedPrice": 5400,
-          "price": 4590
+          "roomReservationInfo": {
+            "adults": 2,
+            "children": 1
+          },
+          " paymentFeatures": [
+            {
+              "icon": "İptal Edilebilir",
+              "title": "İptal Edilebilir"
+            },
+            {
+              "icon": "Şimdi Al Otelde Öde",
+              "title": "Şimdi Al Otelde Öde"
+            },
+            {
+              "icon": "İptal Edilemez",
+              "title": "İptal Edilemez"
+            },
+            {
+              "icon": "Bugüne Özel İndirimlerle",
+              "title": "Bugüne Özel %20 İndirim"
+            }
+          ],
+          "payment": {
+            "nigths": 7,
+            "discountRate": 20,
+            "price": 8000,
+            "discountedPrice": 6400
+          },
+          "reservationButtonParams": {
+            "otel_id": 1,
+            "oda_id": 11,
+            "pansiyon_id": 2001,
+            "odeme_tipi": "normal"
+          }
+        },
+        {
+          "id": 2002,
+          "hasPrice": true,
+          "availableForReservation": true,
+          "unavailableRoomMessage": "",
+          "concept": {
+            "title": "Tam Pansiyon",
+            "icon": "concept"
+          },
+          "roomReservationInfo": {
+            "adults": 2,
+            "children": 1
+          },
+          " paymentFeatures": [
+            {
+              "icon": "İptal Edilebilir",
+              "title": "İptal Edilebilir"
+            },
+            {
+              "icon": "Şimdi Al Otelde Öde",
+              "title": "Şimdi Al Otelde Öde"
+            },
+            {
+              "icon": "İptal Edilemez",
+              "title": "İptal Edilemez"
+            },
+            {
+              "icon": "Bugüne Özel İndirimlerle",
+              "title": "Bugüne Özel %20 İndirim"
+            }
+          ],
+          "payment": {
+            "nigths": 7,
+            "discountRate": 20,
+            "price": 9800,
+            "discountedPrice":  7840
+          },
+          "reservationButtonParams": {
+            "otel_id": 1,
+            "oda_id": 11,
+            "pansiyon_id": 2002,
+            "odeme_tipi": "normal"
+          }
         }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 ]
