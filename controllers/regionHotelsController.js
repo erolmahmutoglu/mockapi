@@ -10,19 +10,19 @@ const getRegionHotels = async (req, res) => {
   }
 };
 
-const getRegionHotelBySeflink = async (req, res) => {
-  const { seflink } = req.params;
+const getRegionHotelByRegion = async (req, res) => {
+  const { region } = req.params;
 
-  const filteredHotels = hotels.filter((h) => h.seflink === seflink);
+  const filteredHotels = hotels.filter((h) => h.region === region);
 
   const responseWithHotels = {
-    region: seflink,
+    region,
     numberOfHotels: filteredHotels.length,
     hotels: filteredHotels,
   };
 
   const responseWithoutHotels = {
-    region: seflink,
+    region,
     numberOfHotels: 0,
     hotels: [],
   };
