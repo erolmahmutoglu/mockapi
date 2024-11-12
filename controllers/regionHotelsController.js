@@ -36,4 +36,4 @@ const getRegionHotelByRegion = async (req, res) => {
   }
 };
 
-module.exports = { getRegionHotels, getRegionHotelBySeflink };
+module.exports = { getRegionHotels, getRegionHotelByRegion };
