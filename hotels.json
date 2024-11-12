@@ -267,7 +267,7 @@
               "title": "Yarım Pansiyon",
               "icon": "concept"
             },
-            "roomReservationInfo": {
+            "reservationInfo": {
               "nights": 7,
               "checkIn": "2024-07-15",
               "checkOut": "2024-07-22",
@@ -398,7 +398,7 @@
               "title": "Yarım Pansiyon",
               "icon": "concept"
             },
-            "roomReservationInfo": {
+            "reservationInfo": {
               "nights": 7,
               "checkIn": "2024-07-15",
               "checkOut": "2024-07-22",
@@ -445,7 +445,7 @@
               "title": "Tam Pansiyon",
               "icon": "concept"
             },
-            "roomReservationInfo": {
+            "reservationInfo": {
               "nights": 7,
               "checkIn": "2024-07-15",
               "checkOut": "2024-07-22",
