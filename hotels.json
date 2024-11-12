@@ -280,24 +280,12 @@
                 "title": "İptal Edilebilir"
               },
               {
-                "icon": "kapida",
-                "title": "Şimdi Al Otelde Öde"
-              },
-              {
-                "icon": "iptal_edilemez",
-                "title": "İptal Edilemez"
-              },
-              {
-                "icon": "kaporali",
-                "title": "Ön Ödemeli"
-              },
-              {
                 "icon": "gostermelik_indirim",
                 "title": "Bugüne Özel %20 İndirim"
               }
             ],
             "payment": {
-              "nigths": 7,
+              "nights": 7,
               "discountRate": 20,
               "price": 3500,
               "discountedPrice": 2800
@@ -411,20 +399,8 @@
             },
             "paymentFeatures": [
               {
-                "icon": "normal",
-                "title": "İptal Edilebilir"
-              },
-              {
-                "icon": "kapida",
-                "title": "Şimdi Al Otelde Öde"
-              },
-              {
                 "icon": "iptal_edilemez",
                 "title": "İptal Edilemez"
-              },
-              {
-                "icon": "kaporali",
-                "title": "Ön Ödemeli"
               },
               {
                 "icon": "gostermelik_indirim",
@@ -432,7 +408,7 @@
               }
             ],
             "payment": {
-              "nigths": 7,
+              "nights": 7,
               "discountRate": 20,
               "price": 8000,
               "discountedPrice": 6400
@@ -462,18 +438,6 @@
             },
             "paymentFeatures": [
               {
-                "icon": "normal",
-                "title": "İptal Edilebilir"
-              },
-              {
-                "icon": "kapida",
-                "title": "Şimdi Al Otelde Öde"
-              },
-              {
-                "icon": "iptal_edilemez",
-                "title": "İptal Edilemez"
-              },
-              {
                 "icon": "kaporali",
                 "title": "Ön Ödemeli"
               },
@@ -483,7 +447,7 @@
               }
             ],
             "payment": {
-              "nigths": 7,
+              "nights": 7,
               "discountRate": 20,
               "price": 9800,
               "discountedPrice": 7840
