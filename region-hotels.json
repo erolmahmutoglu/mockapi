@@ -1,7 +1,8 @@
 [
   {
     "order": 1,
-    "seflink": "marmaris-otelleri",
+    "region":"marmaris-otelleri",
+    "seflink": "sentinus-beach-hotel",
     "tag": "Popüler",
     "like": true,
     "star": 4,
@@ -38,7 +39,8 @@
   },
   {
     "order": 2,
-    "seflink": "marmaris-otelleri",
+    "region":"marmaris-otelleri",
+    "seflink": "sentinus-beach-hotel",
     "tag": "Yeni",
     "like": false,
     "star": 5,
