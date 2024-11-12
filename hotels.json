@@ -274,21 +274,25 @@
               "adults": 2,
               "children": 1
             },
-            " paymentFeatures": [
+            "paymentFeatures": [
               {
-                "icon": "İptal Edilebilir",
+                "icon": "normal",
                 "title": "İptal Edilebilir"
               },
               {
-                "icon": "Şimdi Al Otelde Öde",
+                "icon": "kapida",
                 "title": "Şimdi Al Otelde Öde"
               },
               {
-                "icon": "İptal Edilemez",
+                "icon": "iptal_edilemez",
                 "title": "İptal Edilemez"
               },
               {
-                "icon": "Bugüne Özel İndirimlerle",
+                "icon": "kaporali",
+                "title": "Ön Ödemeli"
+              },
+              {
+                "icon": "gostermelik_indirim",
                 "title": "Bugüne Özel %20 İndirim"
               }
             ],
@@ -405,21 +409,25 @@
               "adults": 2,
               "children": 1
             },
-            " paymentFeatures": [
+            "paymentFeatures": [
               {
-                "icon": "İptal Edilebilir",
+                "icon": "normal",
                 "title": "İptal Edilebilir"
               },
               {
-                "icon": "Şimdi Al Otelde Öde",
+                "icon": "kapida",
                 "title": "Şimdi Al Otelde Öde"
               },
               {
-                "icon": "İptal Edilemez",
+                "icon": "iptal_edilemez",
                 "title": "İptal Edilemez"
               },
               {
-                "icon": "Bugüne Özel İndirimlerle",
+                "icon": "kaporali",
+                "title": "Ön Ödemeli"
+              },
+              {
+                "icon": "gostermelik_indirim",
                 "title": "Bugüne Özel %20 İndirim"
               }
             ],
@@ -452,21 +460,25 @@
               "adults": 2,
               "children": 1
             },
-            " paymentFeatures": [
+            "paymentFeatures": [
               {
-                "icon": "İptal Edilebilir",
+                "icon": "normal",
                 "title": "İptal Edilebilir"
               },
               {
-                "icon": "Şimdi Al Otelde Öde",
+                "icon": "kapida",
                 "title": "Şimdi Al Otelde Öde"
               },
               {
-                "icon": "İptal Edilemez",
+                "icon": "iptal_edilemez",
                 "title": "İptal Edilemez"
               },
               {
-                "icon": "Bugüne Özel İndirimlerle",
+                "icon": "kaporali",
+                "title": "Ön Ödemeli"
+              },
+              {
+                "icon": "gostermelik_indirim",
                 "title": "Bugüne Özel %20 İndirim"
               }
             ],
