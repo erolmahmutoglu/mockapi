@@ -1,0 +1,52 @@
+{
+  "id": "23456",
+  "otel_id": "2",
+  "oda_id": "408",
+  "pansiyon_id": "5690",
+  "odeme_tipi": "normal",
+  "paymentOptions": [
+    {
+      "id": 3000,
+      "type": "normal",
+      "label": "ONLINE ÖDE",
+      "description": "Tüm tutarı peşin olarak ödeyin.",
+      "totalAmount": 5000,
+      "discountRate": 10,
+      "discountedAmount": 4500,
+      "paymentAmount": 4500
+    },
+    {
+      "id": 4000,
+      "type": "kaporali",
+      "label": "ÖN ÖDEME İLE REZERVASYONU GARANTİLE",
+      "description": "Toplam tutarın %15 'ini ödeyip odanızı ayırtabilirsiniz. Geriye kalan tutarı otelde ödeyebilirsiniz.",
+      "totalAmount": 5000,
+      "discountRate": 10,
+      "discountedAmount": 4500,
+      "paymentAmount": 450
+    }
+  ],
+  "room": {
+    "id": 408,
+    "title": "Deniz Manzaralı Deluxe Oda",
+    "description": "Modern olanaklara sahip, deniz manzaralı geniş bir oda.",
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "features": [
+      "Deniz manzarası",
+      "King-size yatak",
+      "Ücretsiz Wi-Fi",
+      "Klima"
+    ],
+    "rating": 4.5
+  },
+  "concept": {
+    "id": 5690,
+    "title": "Her Şey Dahil"
+  }
+}
