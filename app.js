@@ -9,6 +9,7 @@ const hotelsRouter = require('./routes/hotelsRouter');
 const offersRouter = require('./routes/offersRouter');
 const holidayThemesRouter = require('./routes/holidayThemesRouter');
 const regionsHotelRouter = require('./routes/regionHotelsRouter');
+const reservationRouter = require('./routes/reservationRouter');
 
 const app = express();
 
@@ -26,5 +27,6 @@ app.use('/oteller', hotelsRouter);
 app.use('/kampanyalar', offersRouter);
 app.use('/tatil-temalari', holidayThemesRouter);
 app.use('/bolgeler', regionsHotelRouter);
+app.use('/rezervasyon-bilgileri', reservationRouter);
 
 module.exports = app;
