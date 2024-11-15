@@ -52,5 +52,11 @@
   "concept": {
     "id": 5690,
     "title": "Her Şey Dahil"
+  },
+  "info" : {
+    "checkIn": "2024-11-11",
+    "checkOut": "2024-11-18",
+    "adults": 2,
+    "children": 1
   }
 }
