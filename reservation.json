@@ -26,6 +26,11 @@
       "paymentAmount": 450
     }
   ],
+  "hotel":{
+    "id": 2,
+    "title": "Sentinus Beach Hotel",
+    "rating": 4.5
+  },
   "room": {
     "id": 408,
     "title": "Deniz Manzaralı Deluxe Oda",
@@ -42,8 +47,7 @@
       "King-size yatak",
       "Ücretsiz Wi-Fi",
       "Klima"
-    ],
-    "rating": 4.5
+    ]
   },
   "concept": {
     "id": 5690,
