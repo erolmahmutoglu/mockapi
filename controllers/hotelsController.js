@@ -13,7 +13,8 @@ const getHotels = async (req, res) => {
 const getHotelBySeflink = async (req, res) => {
   const { seflink } = req.params;
 
-  const hotel = hotels.find((h) => h.seflink === seflink);
+  // const hotel = hotels.find((h) => h.seflink === seflink);
+  const hotel = hotels[0]
 
   if (hotel) {
     res.status(200).json(hotel);
