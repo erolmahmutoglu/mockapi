@@ -1,7 +1,8 @@
 [
   {
+    "id": 1,
     "order": 1,
-    "region":"marmaris-otelleri",
+    "region": "marmaris-otelleri",
     "seflink": "sentinus-beach-hotel",
     "tag": "Popüler",
     "like": true,
@@ -16,7 +17,11 @@
     ],
     "location": "Marmaris, Muğla",
     "title": "Sentinus Beach Hotel",
-    "features": ["Havuz", "Spa", "Deniz Kıyısında"],
+    "features": [
+      "Havuz",
+      "Spa",
+      "Deniz Kıyısında"
+    ],
     "badges": [
       {
         "variant": "green",
@@ -35,11 +40,51 @@
       "discount": 20,
       "overlinedPrice": 4590,
       "price": 3672
+    },
+    "filters": {
+      "city": "mugla",
+      "town": "marmaris",
+      "district": "siteler",
+      "themes": [
+        {
+          "label": "Butik Oteller",
+          "value": "boutique"
+        },
+        {
+          "label": "Tatil Köyleri",
+          "value": "resort"
+        }
+      ],
+      "facilities": [
+        {
+          "label": "Termal",
+          "value": "thermal"
+        },
+        {
+          "label": "Kongre",
+          "value": "congress"
+        },
+        {
+          "label": "Golf",
+          "value": "golf"
+        }
+      ],
+      "paymentTypes": [
+        {
+          "label": "Kısmi Ödemeli",
+          "value": "installment"
+        },
+        {
+          "label": "Hemen Öde",
+          "value": "upfront"
+        }
+      ]
     }
   },
   {
+    "id": 2,
     "order": 2,
-    "region":"marmaris-otelleri",
+    "region": "marmaris-otelleri",
     "seflink": "sentinus-beach-hotel",
     "tag": "Yeni",
     "like": false,
@@ -54,7 +99,11 @@
     ],
     "location": "Marmaris, Muğla",
     "title": "Rixos Premium Belek",
-    "features": ["Havuz", "Spa", "Deniz Kıyısında"],
+    "features": [
+      "Havuz",
+      "Spa",
+      "Deniz Kıyısında"
+    ],
     "badges": [
       {
         "variant": "green",
@@ -73,6 +122,41 @@
       "discount": 20,
       "overlinedPrice": 2300,
       "price": 1840
+    },
+    "filters": {
+      "city": "antalya",
+      "town": "alanya",
+      "district": "konakli",
+      "themes": [
+        {
+          "label": "Tatil Köyleri",
+          "value": "resort"
+        },
+        {
+          "label": "Ultra Her Şey Dahil",
+          "value": "ultra-all-inclusive"
+        }
+      ],
+      "facilities": [
+        {
+          "label": "Golf",
+          "value": "golf"
+        },
+        {
+          "label": "Dağ",
+          "value": "mountain"
+        }
+      ],
+      "paymentTypes": [
+        {
+          "label": "Hemen Öde",
+          "value": "upfront"
+        },
+        {
+          "label": "Kredi Kartsız Ödeme",
+          "value": "credit-cardless"
+        }
+      ]
     }
   }
 ]
