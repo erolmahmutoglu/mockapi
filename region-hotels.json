@@ -2,12 +2,12 @@
   {
     "id": 1,
     "order": 1,
-    "region": "marmaris-otelleri",
-    "seflink": "sentinus-beach-hotel",
+    "region": "izmir-otelleri",
+    "seflink": "cesme-alacati-boutique",
     "tag": "Popüler",
     "like": true,
-    "star": 4,
-    "comments": 32,
+    "star": 5,
+    "comments": 120,
     "images": [
       "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -15,13 +15,9 @@
       "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
-    "location": "Marmaris, Muğla",
-    "title": "Sentinus Beach Hotel",
-    "features": [
-      "Havuz",
-      "Spa",
-      "Deniz Kıyısında"
-    ],
+    "location": "Çeşme, İzmir",
+    "title": "Alaçatı Boutique Hotel",
+    "features": ["Spa", "Deniz Manzaralı", "Orman Manzaralı", "Havuz"],
     "badges": [
       {
         "variant": "green",
@@ -33,36 +29,114 @@
       }
     ],
     "calculated": {
-      "concept": "Her Şey Dahil",
-      "nights": 7,
+      "concept": "Sadece Oda",
+      "nights": 3,
       "adults": 2,
-      "children": 1,
-      "discount": 20,
-      "overlinedPrice": 4590,
-      "price": 3672
+      "children": 0,
+      "discount": 15,
+      "overlinedPrice": 3500,
+      "price": 2975
     },
     "filters": {
-      "city": "mugla",
-      "town": "marmaris",
-      "district": "siteler",
+      "city": "izmir",
+      "town": "cesme",
+      "district": "alacati",
       "themes": [
         {
-          "label": "Butik Oteller",
-          "value": "boutique"
-        },
-        {
-          "label": "Tatil Köyleri",
-          "value": "resort"
+          "label": "Şehir Otelleri",
+          "value": "sehir"
         }
       ],
       "facilities": [
         {
-          "label": "Termal",
-          "value": "thermal"
+          "label": "Deniz Manzaralı",
+          "value": "sea-view"
         },
         {
-          "label": "Kongre",
-          "value": "congress"
+          "label": "Spa",
+          "value": "spa"
+        },
+        {
+          "label": "Orman Manzaralı",
+          "value": "forest-view"
+        },
+        {
+          "label": "Havuz",
+          "value": "pool"
+        }
+      ],
+      "paymentTypes": [
+        {
+          "label": "Hemen Öde",
+          "value": "upfront"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "order": 2,
+    "region": "antalya-otelleri",
+    "seflink": "rixos-ultra-resort",
+    "tag": "Yeni",
+    "like": false,
+    "star": 5,
+    "comments": 80,
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "location": "Alanya, Antalya",
+    "title": "Rixos Ultra Resort",
+    "features": ["Havuz", "Spa", "Şehir Manzaralı", "Golf"],
+    "badges": [
+      {
+        "variant": "green",
+        "text": "Ücretsiz İptal"
+      },
+      {
+        "variant": "yellow",
+        "text": "Özel Fiyat"
+      }
+    ],
+    "calculated": {
+      "concept": "Ultra Her Şey Dahil",
+      "nights": 5,
+      "adults": 2,
+      "children": 1,
+      "discount": 20,
+      "overlinedPrice": 5000,
+      "price": 4000
+    },
+    "filters": {
+      "city": "antalya",
+      "town": "alanya",
+      "district": "avsallar",
+      "themes": [
+        {
+          "label": "Şehir Otelleri",
+          "value": "sehir"
+        },
+        {
+          "label": "Yaz Otelleri",
+          "value": "yaz"
+        }
+      ],
+      "facilities": [
+        {
+          "label": "Havuz",
+          "value": "pool"
+        },
+        {
+          "label": "Spa",
+          "value": "spa"
+        },
+        {
+          "label": "Şehir Manzaralı",
+          "value": "city-view"
         },
         {
           "label": "Golf",
@@ -75,21 +149,21 @@
           "value": "installment"
         },
         {
-          "label": "Hemen Öde",
-          "value": "upfront"
+          "label": "Kredi Kartsız Ödeme",
+          "value": "credit-cardless"
         }
       ]
     }
   },
   {
-    "id": 2,
-    "order": 2,
-    "region": "marmaris-otelleri",
-    "seflink": "rixos-premium-marmaris",
-    "tag": "Yeni",
-    "like": false,
-    "star": 5,
-    "comments": 12,
+    "id": 3,
+    "order": 3,
+    "region": "mugla-otelleri",
+    "seflink": "marmaris-forest-villa",
+    "tag": "Öne Çıkan",
+    "like": true,
+    "star": 4,
+    "comments": 45,
     "images": [
       "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -98,30 +172,26 @@
       "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     "location": "Marmaris, Muğla",
-    "title": "Rixos Premium Marmaris",
-    "features": [
-      "Havuz",
-      "Spa",
-      "Deniz Kıyısında"
-    ],
+    "title": "Marmaris Forest Villa",
+    "features": ["Havuz", "Orman Manzaralı", "Termal", "Spa"],
     "badges": [
       {
         "variant": "green",
         "text": "Ücretsiz İptal"
       },
       {
-        "variant": "blue",
-        "text": "Peşin Fiyatına 6 Taksit"
+        "variant": "red",
+        "text": "Son Dakika Fırsatı"
       }
     ],
     "calculated": {
-      "concept": "Her Şey Dahil",
-      "nights": 7,
-      "adults": 2,
-      "children": 1,
-      "discount": 20,
-      "overlinedPrice": 2300,
-      "price": 1840
+      "concept": "Tam Pansiyon",
+      "nights": 4,
+      "adults": 3,
+      "children": 0,
+      "discount": 10,
+      "overlinedPrice": 4200,
+      "price": 3780
     },
     "filters": {
       "city": "mugla",
@@ -129,12 +199,160 @@
       "district": "armutalan",
       "themes": [
         {
-          "label": "Tatil Köyleri",
-          "value": "resort"
+          "label": "Termal Oteller",
+          "value": "termal"
         },
         {
-          "label": "Ultra Her Şey Dahil",
-          "value": "ultra-all-inclusive"
+          "label": "Şehir Otelleri",
+          "value": "sehir"
+        }
+      ],
+      "facilities": [
+        {
+          "label": "Havuz",
+          "value": "pool"
+        },
+        {
+          "label": "Orman Manzaralı",
+          "value": "forest-view"
+        },
+        {
+          "label": "Termal",
+          "value": "thermal"
+        },
+        {
+          "label": "Spa",
+          "value": "spa"
+        }
+      ],
+      "paymentTypes": [
+        {
+          "label": "Hemen Öde",
+          "value": "upfront"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "order": 4,
+    "region": "izmir-otelleri",
+    "seflink": "cesme-ilica-resort",
+    "tag": "Popüler",
+    "like": false,
+    "star": 4,
+    "comments": 34,
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "location": "Çeşme, İzmir",
+    "title": "Çeşme Ilıca Resort",
+    "features": ["Deniz Manzaralı", "Şehir Manzaralı"],
+    "badges": [
+      {
+        "variant": "blue",
+        "text": "Peşin Fiyatına 12 Taksit"
+      },
+      {
+        "variant": "yellow",
+        "text": "Sezon İndirimi"
+      }
+    ],
+    "calculated": {
+      "concept": "Yarım Pansiyon",
+      "nights": 2,
+      "adults": 2,
+      "children": 1,
+      "discount": 25,
+      "overlinedPrice": 2400,
+      "price": 1800
+    },
+    "filters": {
+      "city": "izmir",
+      "town": "cesme",
+      "district": "ilica",
+      "themes": [
+        {
+          "label": "Termal Oteller",
+          "value": "termal"
+        },
+        {
+          "label": "Şehir Otelleri",
+          "value": "sehir"
+        },
+        {
+          "label": "Yaz Otelleri",
+          "value": "yaz"
+        }
+      ],
+      "facilities": [
+        {
+          "label": "Şehir Manzaralı",
+          "value": "city-view"
+        },
+        {
+          "label": "Deniz Manzaralı",
+          "value": "sea-view"
+        }
+      ],
+      "paymentTypes": [
+        {
+          "label": "Kısmi Ödemeli",
+          "value": "installment"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "order": 5,
+    "region": "mugla-otelleri",
+    "seflink": "turunc-golf-hotel",
+    "tag": "Popüler",
+    "like": true,
+    "star": 3,
+    "comments": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "location": "Marmaris, Muğla",
+    "title": "Turunç Golf Hotel",
+    "features": ["Golf", "Spa"],
+    "badges": [
+      {
+        "variant": "green",
+        "text": "Ücretsiz İptal"
+      },
+      {
+        "variant": "yellow",
+        "text": "Kampanyalı Fiyat"
+      }
+    ],
+    "calculated": {
+      "concept": "Oda Kahvaltı",
+      "nights": 3,
+      "adults": 1,
+      "children": 1,
+      "discount": 15,
+      "overlinedPrice": 2000,
+      "price": 1700
+    },
+    "filters": {
+      "city": "mugla",
+      "town": "marmaris",
+      "district": "turunc",
+      "themes": [
+        {
+          "label": "Yaz Otelleri",
+          "value": "yaz"
         }
       ],
       "facilities": [
@@ -143,8 +361,78 @@
           "value": "golf"
         },
         {
-          "label": "Dağ",
-          "value": "mountain"
+          "label": "Spa",
+          "value": "spa"
+        }
+      ],
+      "paymentTypes": [
+        {
+          "label": "Kredi Kartsız Ödeme",
+          "value": "credit-cardless"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "order": 6,
+    "region": "antalya-otelleri",
+    "seflink": "konakli-beach-resort",
+    "tag": "Yeni",
+    "like": true,
+    "star": 5,
+    "comments": 98,
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "location": "Alanya, Antalya",
+    "title": "Konaklı Beach Resort",
+    "features": ["Deniz Manzaralı", "Havuz"],
+    "badges": [
+      {
+        "variant": "blue",
+        "text": "Erken Rezervasyon İndirimi"
+      },
+      {
+        "variant": "yellow",
+        "text": "Sezon Fırsatı"
+      }
+    ],
+    "calculated": {
+      "concept": "Ultra Her Şey Dahil",
+      "nights": 4,
+      "adults": 2,
+      "children": 2,
+      "discount": 30,
+      "overlinedPrice": 6000,
+      "price": 4200
+    },
+    "filters": {
+      "city": "antalya",
+      "town": "alanya",
+      "district": "konakli",
+      "themes": [
+        {
+          "label": "Yaz Otelleri",
+          "value": "yaz"
+        },
+        {
+          "label": "Şehir Otelleri",
+          "value": "sehir"
+        }
+      ],
+      "facilities": [
+        {
+          "label": "Deniz Manzaralı",
+          "value": "sea-view"
+        },
+        {
+          "label": "Havuz",
+          "value": "pool"
         }
       ],
       "paymentTypes": [
@@ -153,8 +441,292 @@
           "value": "upfront"
         },
         {
+          "label": "Kısmi Ödemeli",
+          "value": "installment"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "order": 7,
+    "region": "mugla-otelleri",
+    "seflink": "icmeler-luxury-hotel",
+    "tag": "Popüler",
+    "like": false,
+    "star": 4,
+    "comments": 67,
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "location": "Marmaris, Muğla",
+    "title": "İçmeler Luxury Hotel",
+    "features": ["Şehir Manzaralı", "Spa"],
+    "badges": [
+      {
+        "variant": "green",
+        "text": "Ücretsiz İptal"
+      },
+      {
+        "variant": "yellow",
+        "text": "Özel İndirim"
+      }
+    ],
+    "calculated": {
+      "concept": "Tam Pansiyon",
+      "nights": 3,
+      "adults": 2,
+      "children": 1,
+      "discount": 20,
+      "overlinedPrice": 4800,
+      "price": 3840
+    },
+    "filters": {
+      "city": "mugla",
+      "town": "marmaris",
+      "district": "icmeler",
+      "themes": [
+        {
+          "label": "Şehir Otelleri",
+          "value": "sehir"
+        },
+        {
+          "label": "Yaz Otelleri",
+          "value": "yaz"
+        }
+      ],
+      "facilities": [
+        {
+          "label": "Şehir Manzaralı",
+          "value": "city-view"
+        },
+        {
+          "label": "Spa",
+          "value": "spa"
+        }
+      ],
+      "paymentTypes": [
+        {
           "label": "Kredi Kartsız Ödeme",
           "value": "credit-cardless"
+        },
+        {
+          "label": "Hemen Öde",
+          "value": "upfront"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "order": 8,
+    "region": "izmir-otelleri",
+    "seflink": "dalyan-green-haven",
+    "tag": "Öne Çıkan",
+    "like": true,
+    "star": 3,
+    "comments": 42,
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "location": "Çeşme, İzmir",
+    "title": "Dalyan Green Haven",
+    "features": ["Orman Manzaralı", "Spa"],
+    "badges": [
+      {
+        "variant": "green",
+        "text": "Ücretsiz İptal"
+      },
+      {
+        "variant": "red",
+        "text": "Son Dakika Fırsatı"
+      }
+    ],
+    "calculated": {
+      "concept": "Yarım Pansiyon",
+      "nights": 2,
+      "adults": 1,
+      "children": 0,
+      "discount": 10,
+      "overlinedPrice": 2500,
+      "price": 2250
+    },
+    "filters": {
+      "city": "izmir",
+      "town": "cesme",
+      "district": "dalyan",
+      "themes": [
+        {
+          "label": "Yaz Otelleri",
+          "value": "yaz"
+        }
+      ],
+      "facilities": [
+        {
+          "label": "Orman Manzaralı",
+          "value": "forest-view"
+        },
+        {
+          "label": "Spa",
+          "value": "spa"
+        }
+      ],
+      "paymentTypes": [
+        {
+          "label": "Hemen Öde",
+          "value": "upfront"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "order": 9,
+    "region": "antalya-otelleri",
+    "seflink": "mahmutlar-family-resort",
+    "tag": "Yeni",
+    "like": true,
+    "star": 4,
+    "comments": 53,
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "location": "Alanya, Antalya",
+    "title": "Mahmutlar Family Resort",
+    "features": ["Golf", "Deniz Manzaralı"],
+    "badges": [
+      {
+        "variant": "green",
+        "text": "Ücretsiz İptal"
+      },
+      {
+        "variant": "yellow",
+        "text": "Aile İndirimi"
+      }
+    ],
+    "calculated": {
+      "concept": "Her Şey Dahil",
+      "nights": 5,
+      "adults": 2,
+      "children": 2,
+      "discount": 15,
+      "overlinedPrice": 7000,
+      "price": 5950
+    },
+    "filters": {
+      "city": "antalya",
+      "town": "alanya",
+      "district": "mahmutlar",
+      "themes": [
+        {
+          "label": "Termal Oteller",
+          "value": "termal"
+        },
+        {
+          "label": "Şehir Otelleri",
+          "value": "sehir"
+        }
+      ],
+      "facilities": [
+        {
+          "label": "Golf",
+          "value": "golf"
+        },
+        {
+          "label": "Deniz Manzaralı",
+          "value": "sea-view"
+        }
+      ],
+      "paymentTypes": [
+        {
+          "label": "Kredi Kartsız Ödeme",
+          "value": "credit-cardless"
+        },
+        {
+          "label": "Kısmi Ödemeli",
+          "value": "installment"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "order": 10,
+    "region": "mugla-otelleri",
+    "seflink": "siteler-thermal-hotel",
+    "tag": "Öne Çıkan",
+    "like": false,
+    "star": 5,
+    "comments": 38,
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "location": "Marmaris, Muğla",
+    "title": "Siteler Thermal Hotel",
+    "features": ["Termal", "Orman Manzaralı"],
+    "badges": [
+      {
+        "variant": "red",
+        "text": "Son Dakika Fırsatı"
+      },
+      {
+        "variant": "yellow",
+        "text": "Sezon İndirimi"
+      }
+    ],
+    "calculated": {
+      "concept": "Tam Pansiyon",
+      "nights": 3,
+      "adults": 3,
+      "children": 0,
+      "discount": 20,
+      "overlinedPrice": 4800,
+      "price": 3840
+    },
+    "filters": {
+      "city": "mugla",
+      "town": "marmaris",
+      "district": "siteler",
+      "themes": [
+        {
+          "label": "Termal Oteller",
+          "value": "termal"
+        },
+        {
+          "label": "Şehir Otelleri",
+          "value": "sehir"
+        }
+      ],
+      "facilities": [
+        {
+          "label": "Termal",
+          "value": "thermal"
+        },
+        {
+          "label": "Orman Manzaralı",
+          "value": "forest-view"
+        }
+      ],
+      "paymentTypes": [
+        {
+          "label": "Hemen Öde",
+          "value": "upfront"
         }
       ]
     }
