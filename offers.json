@@ -1,32 +1,72 @@
 [
   {
-    "title": "Hafta Sonuna Özel İndirimler",
-    "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "link": "/indirimli-oteller"
+    "id": 1,
+    "title": "Erken Rezervasyon Fırsatı",
+    "seflink": "erken-rezervasyon-otelleri",
+    "thumbnail": "https://images.pexels.com/photos/450038/pexels-photo-450038.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
+    "post": "https://images.pexels.com/photos/16849865/pexels-photo-16849865/free-photo-of-swimming-pool-and-palm-trees-at-a-tropical-luxurious-resort.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "title": "Termal Otellerde ek %5 indirim fırsatı",
-    "image": "https://images.unsplash.com/photo-1679637175058-cada15d04aa2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "link": "/termal-oteller"
+    "id": 2,
+    "title": "Ön Ödemesiz Rezervasyon",
+    "seflink": "otelde-ode-otelleri",
+    "thumbnail": "https://images.pexels.com/photos/5611808/pexels-photo-5611808.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
+    "post": "https://images.pexels.com/photos/3494640/pexels-photo-3494640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "title": "Yurtiçi Otellerde 500 ₺ İndirim Fırsatı",
-    "image": "https://images.unsplash.com/photo-1618245318763-a15156d6b23c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "link": "/izmir-otelleri"
+    "id": 3,
+    "title": " %10 Ön Ödemeli Rezervasyon",
+    "seflink": "on-odemeli-oteller",
+    "thumbnail": "https://images.pexels.com/photos/1617365/pexels-photo-1617365.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
+    "post": "https://images.pexels.com/photos/2631613/pexels-photo-2631613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "title": "%50 İndirimli Oteller",
-    "image": "https://images.unsplash.com/photo-1518558177271-f75b99ebe8fc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "link": "/indirimli-oteller"
+    "id": 4,
+    "title": "Termal Tatil Fırsatı",
+    "seflink": "termal-oteller",
+    "thumbnail": "https://images.pexels.com/photos/2098848/pexels-photo-2098848.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
+    "post": "https://images.pexels.com/photos/27898572/pexels-photo-27898572/free-photo-of-cancun-beach-resort.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "title": "Şehir Otellerinde 3 Gece 4 Öde Fırsatı",
-    "image": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "link": "/sehir-otelleri"
+    "id": 5,
+    "title": "Parapuan Kampanyası",
+    "seflink": "kampanyalar",
+    "thumbnail": "https://images.pexels.com/photos/12910753/pexels-photo-12910753.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
+    "post": "https://images.pexels.com/photos/19796648/pexels-photo-19796648/free-photo-of-flowers-in-vase-behind-coffee-cup.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "title": "Balayı Otellerinde %20 İndirim",
-    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "link": "/balayi-otelleri"
+    "id": 6,
+    "title": "Havale %5 İndirim Kampanyası",
+    "seflink": "havale-indirimli-oteller",
+    "thumbnail": "https://images.pexels.com/photos/2866796/pexels-photo-2866796.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
+    "post": "https://images.pexels.com/photos/14640889/pexels-photo-14640889.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 7,
+    "title": "En Uygun Fiyat Garantisi",
+    "seflink": "en-uygun-fiyat-otelleri",
+    "thumbnail": "https://images.pexels.com/photos/831889/pexels-photo-831889.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
+    "post": "https://images.pexels.com/photos/731217/pexels-photo-731217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 8,
+    "title": "Ücretsiz İptal Garantisi",
+    "seflink": "ucretsiz-iptal-oteller",
+    "thumbnail": "https://images.pexels.com/photos/212185/pexels-photo-212185.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
+    "post": "https://images.pexels.com/photos/12930117/pexels-photo-12930117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 9,
+    "title": "2 Çocuk Ücretsiz Oteller",
+    "seflink": "2-cocuk-ucretsiz-oteller",
+    "thumbnail": "https://images.pexels.com/photos/12910753/pexels-photo-12910753.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
+    "post": "https://images.pexels.com/photos/19796648/pexels-photo-19796648/free-photo-of-flowers-in-vase-behind-coffee-cup.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 10,
+    "title": "Her Şey Dahil Oteller",
+    "seflink": "her-sey-dahil-oteller",
+    "thumbnail": "https://images.pexels.com/photos/1617365/pexels-photo-1617365.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
+    "post": "https://images.pexels.com/photos/2631613/pexels-photo-2631613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }
 ]
