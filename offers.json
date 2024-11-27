@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "Erken Rezervasyon Fırsatı",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nisl ultricies nunc, nec ultricies nunc nisl ultricies nunc.",
     "seflink": "erken-rezervasyon-otelleri",
     "thumbnail": "https://images.pexels.com/photos/450038/pexels-photo-450038.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
     "post": "https://images.pexels.com/photos/16849865/pexels-photo-16849865/free-photo-of-swimming-pool-and-palm-trees-at-a-tropical-luxurious-resort.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -9,6 +10,7 @@
   {
     "id": 2,
     "title": "Ön Ödemesiz Rezervasyon",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nisl ultricies nunc, nec ultricies nunc nisl ultricies nunc.",
     "seflink": "otelde-ode-otelleri",
     "thumbnail": "https://images.pexels.com/photos/5611808/pexels-photo-5611808.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
     "post": "https://images.pexels.com/photos/3494640/pexels-photo-3494640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -16,6 +18,7 @@
   {
     "id": 3,
     "title": " %10 Ön Ödemeli Rezervasyon",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nisl ultricies nunc, nec ultricies nunc nisl ultricies nunc.",
     "seflink": "on-odemeli-oteller",
     "thumbnail": "https://images.pexels.com/photos/1617365/pexels-photo-1617365.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
     "post": "https://images.pexels.com/photos/2631613/pexels-photo-2631613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -23,6 +26,7 @@
   {
     "id": 4,
     "title": "Termal Tatil Fırsatı",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nisl ultricies nunc, nec ultricies nunc nisl ultricies nunc.",
     "seflink": "termal-oteller",
     "thumbnail": "https://images.pexels.com/photos/2098848/pexels-photo-2098848.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
     "post": "https://images.pexels.com/photos/27898572/pexels-photo-27898572/free-photo-of-cancun-beach-resort.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -30,6 +34,7 @@
   {
     "id": 5,
     "title": "Parapuan Kampanyası",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nisl ultricies nunc, nec ultricies nunc nisl ultricies nunc.",
     "seflink": "kampanyalar",
     "thumbnail": "https://images.pexels.com/photos/12910753/pexels-photo-12910753.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
     "post": "https://images.pexels.com/photos/19796648/pexels-photo-19796648/free-photo-of-flowers-in-vase-behind-coffee-cup.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -37,6 +42,7 @@
   {
     "id": 6,
     "title": "Havale %5 İndirim Kampanyası",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nisl ultricies nunc, nec ultricies nunc nisl ultricies nunc.",
     "seflink": "havale-indirimli-oteller",
     "thumbnail": "https://images.pexels.com/photos/2866796/pexels-photo-2866796.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
     "post": "https://images.pexels.com/photos/14640889/pexels-photo-14640889.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -44,6 +50,7 @@
   {
     "id": 7,
     "title": "En Uygun Fiyat Garantisi",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nisl ultricies nunc, nec ultricies nunc nisl ultricies nunc.",
     "seflink": "en-uygun-fiyat-otelleri",
     "thumbnail": "https://images.pexels.com/photos/831889/pexels-photo-831889.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
     "post": "https://images.pexels.com/photos/731217/pexels-photo-731217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -51,6 +58,7 @@
   {
     "id": 8,
     "title": "Ücretsiz İptal Garantisi",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nisl ultricies nunc, nec ultricies nunc nisl ultricies nunc.",
     "seflink": "ucretsiz-iptal-oteller",
     "thumbnail": "https://images.pexels.com/photos/212185/pexels-photo-212185.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
     "post": "https://images.pexels.com/photos/12930117/pexels-photo-12930117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -58,6 +66,7 @@
   {
     "id": 9,
     "title": "2 Çocuk Ücretsiz Oteller",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nisl ultricies nunc, nec ultricies nunc nisl ultricies nunc.",
     "seflink": "2-cocuk-ucretsiz-oteller",
     "thumbnail": "https://images.pexels.com/photos/12910753/pexels-photo-12910753.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
     "post": "https://images.pexels.com/photos/19796648/pexels-photo-19796648/free-photo-of-flowers-in-vase-behind-coffee-cup.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -65,6 +74,7 @@
   {
     "id": 10,
     "title": "Her Şey Dahil Oteller",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nisl ultricies nunc, nec ultricies nunc nisl ultricies nunc.",
     "seflink": "her-sey-dahil-oteller",
     "thumbnail": "https://images.pexels.com/photos/1617365/pexels-photo-1617365.jpeg?auto=compress&cs=tinysrgb&w=130&h=130&dpr=1",
     "post": "https://images.pexels.com/photos/2631613/pexels-photo-2631613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
