@@ -13,7 +13,8 @@ const getRegionHotels = async (req, res) => {
 const getRegionHotelByRegion = async (req, res) => {
   const { region } = req.params;
 
-  const filteredHotels = hotels.filter((h) => h.region === region);
+  // const filteredHotels = hotels.filter((h) => h.region === region);
+  const filteredHotels = hotels
 
   const responseWithHotels = {
     region,
