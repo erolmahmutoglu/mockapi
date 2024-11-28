@@ -1,4 +1,5 @@
 const hotels = require('../region-hotels.json');
+const filters = require('../page-filters.json');
 
 const getRegionHotels = async (req, res) => {
   try {
@@ -12,14 +13,26 @@ const getRegionHotels = async (req, res) => {
 
 const getRegionHotelByRegion = async (req, res) => {
   const { region } = req.params;
+  const { checkIn, checkOut } = req.query;
 
   // const filteredHotels = hotels.filter((h) => h.region === region);
-  const filteredHotels = hotels
+  const filteredHotels = hotels.map((hotel) => ({
+        ...hotel,
+        hasCalculatedPrice: checkIn && checkOut ? true : false,
+      }));
 
   const responseWithHotels = {
     region,
     numberOfHotels: filteredHotels.length,
     hotels: filteredHotels,
+    filters: filters,
+    searchOption : {
+          value: region,
+          label: region,
+          id: 0,
+          type: "location",
+          description: "",
+        },
   };
 
   const responseWithoutHotels = {
