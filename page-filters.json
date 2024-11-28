@@ -1,0 +1,158 @@
+{
+  "locations": [
+    {
+      "label": "İzmir",
+      "value": "izmir",
+      "towns": [
+        {
+          "label": "Çeşme",
+          "value": "cesme",
+          "districts": [
+            {
+              "label": "Alaçatı",
+              "value": "alacati"
+            },
+            {
+              "label": "Çeşme Merkez",
+              "value": "cesme-merkez"
+            },
+            {
+              "label": "Ilıca",
+              "value": "ilica"
+            },
+            {
+              "label": "Dalyan",
+              "value": "dalyan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Antalya",
+      "value": "antalya",
+      "towns": [
+        {
+          "label": "Alanya",
+          "value": "alanya",
+          "districts": [
+            {
+              "label": "Alara",
+              "value": "alara"
+            },
+            {
+              "label": "Avsallar",
+              "value": "avsallar"
+            },
+            {
+              "label": "Konaklı",
+              "value": "konakli"
+            },
+            {
+              "label": "Mahmutlar",
+              "value": "mahmutlar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Muğla",
+      "value": "mugla",
+      "towns": [
+        {
+          "label": "Marmaris",
+          "value": "marmaris",
+          "districts": [
+            {
+              "label": "Armutalan",
+              "value": "armutalan"
+            },
+            {
+              "label": "Siteler",
+              "value": "siteler"
+            },
+            {
+              "label": "İçmeler",
+              "value": "icmeler"
+            },
+            {
+              "label": "Turunç",
+              "value": "turunc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "themes": [
+    {
+      "label": "Termal Oteller",
+      "value": "termal"
+    },
+    {
+      "label": "Şehir Otelleri",
+      "value": "sehir"
+    },
+    {
+      "label": "Yaz Otelleri",
+      "value": "yaz"
+    },
+    {
+      "label": "Kayak Otelleri",
+      "value": "kayak"
+    }
+  ],
+  "facilities": [
+    {
+      "label": "Havuz",
+      "value": "pool"
+    },
+    {
+      "label": "Spa",
+      "value": "spa"
+    },
+    {
+      "label": "Termal",
+      "value": "thermal"
+    },
+    {
+      "label": "Kongre",
+      "value": "congress"
+    },
+    {
+      "label": "Golf",
+      "value": "golf"
+    },
+    {
+      "label": "Dağ",
+      "value": "mountain"
+    },
+    {
+      "label": "Orman Manzaralı",
+      "value": "forest-view"
+    },
+    {
+      "label": "Şehir Manzaralı",
+      "value": "city-view"
+    },
+    {
+      "label": "Deniz Manzaralı",
+      "value": "sea-view"
+    }
+  ],
+  "paymentTypes": [
+    {
+      "label": "Kısmi Ödemeli",
+      "value": "installment"
+    },
+    {
+      "label": "Hemen Öde",
+      "value": "upfront"
+    },
+    {
+      "label": "Kredi Kartsız Ödeme",
+      "value": "credit-cardless"
+    }
+  ]
+}
