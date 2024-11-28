@@ -17,22 +17,38 @@ const getRegionHotelByRegion = async (req, res) => {
 
   // const filteredHotels = hotels.filter((h) => h.region === region);
   const filteredHotels = hotels.map((hotel) => ({
-        ...hotel,
-        hasCalculatedPrice: checkIn && checkOut ? true : false,
-      }));
+    id: hotel.id,
+    order: hotel.order,
+    region: hotel.region,
+    seflink: hotel.seflink,
+    tag: hotel.tag,
+    like: hotel.like,
+    star: hotel.star,
+    comments: hotel.comments,
+    images: hotel.images,
+    location: hotel.location,
+    title: hotel.title,
+    features: hotel.features,
+    badges: hotel.badges,
+    hasCalculatedPrice: !!checkIn && !!checkOut,
+    calculated: hotel.calculated,
+    filters: hotel.filters,
+  }));
+
+  console.log('filteredHotels', filteredHotels);
 
   const responseWithHotels = {
     region,
     numberOfHotels: filteredHotels.length,
     hotels: filteredHotels,
     filters: filters,
-    searchOption : {
-          value: region,
-          label: region,
-          id: 0,
-          type: "location",
-          description: "",
-        },
+    searchOption: {
+      value: region,
+      label: region,
+      id: 0,
+      type: 'location',
+      description: '',
+    },
   };
 
   const responseWithoutHotels = {

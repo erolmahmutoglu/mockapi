@@ -28,6 +28,7 @@
         "text": "Peşin Fiyatına 6 Taksit"
       }
     ],
+    "hasCalculatedPrice": true,
     "calculated": {
       "concept": "Sadece Oda",
       "nights": 3,
@@ -102,6 +103,7 @@
         "text": "Özel Fiyat"
       }
     ],
+    "hasCalculatedPrice": true,
     "calculated": {
       "concept": "Ultra Her Şey Dahil",
       "nights": 5,
@@ -184,6 +186,7 @@
         "text": "Son Dakika Fırsatı"
       }
     ],
+    "hasCalculatedPrice": true,
     "calculated": {
       "concept": "Tam Pansiyon",
       "nights": 4,
@@ -262,6 +265,7 @@
         "text": "Sezon İndirimi"
       }
     ],
+    "hasCalculatedPrice": true,
     "calculated": {
       "concept": "Yarım Pansiyon",
       "nights": 2,
@@ -336,6 +340,7 @@
         "text": "Kampanyalı Fiyat"
       }
     ],
+    "hasCalculatedPrice": true,
     "calculated": {
       "concept": "Oda Kahvaltı",
       "nights": 3,
@@ -402,6 +407,7 @@
         "text": "Sezon Fırsatı"
       }
     ],
+    "hasCalculatedPrice": true,
     "calculated": {
       "concept": "Ultra Her Şey Dahil",
       "nights": 4,
@@ -476,6 +482,7 @@
         "text": "Özel İndirim"
       }
     ],
+    "hasCalculatedPrice": true,
     "calculated": {
       "concept": "Tam Pansiyon",
       "nights": 3,
@@ -550,6 +557,7 @@
         "text": "Son Dakika Fırsatı"
       }
     ],
+    "hasCalculatedPrice": true,
     "calculated": {
       "concept": "Yarım Pansiyon",
       "nights": 2,
@@ -616,6 +624,7 @@
         "text": "Aile İndirimi"
       }
     ],
+    "hasCalculatedPrice": true,
     "calculated": {
       "concept": "Her Şey Dahil",
       "nights": 5,
@@ -690,6 +699,7 @@
         "text": "Sezon İndirimi"
       }
     ],
+    "hasCalculatedPrice": true,
     "calculated": {
       "concept": "Tam Pansiyon",
       "nights": 3,
